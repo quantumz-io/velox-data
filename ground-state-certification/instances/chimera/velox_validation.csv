@@ -1,0 +1,16 @@
+instance,num_var,ref_v1_autotune_energy,computed_autotune_energy,autotune_match,delta_autotune,runtime_autotune,ref_v1_custom_energy,computed_custom_energy,custom_match,delta_custom,runtime_custom
+random_ising_chimera_C2_inst1_linear.h5,128,-1830.25,-1830.25,true,0.0,7.089587712,-1830.25,-1830.25,true,0.0,0.461120992
+random_ising_chimera_C3_inst1_linear.h5,192,-2907.25,-2907.25,true,0.0,0.686643583,-2907.25,-2907.25,true,0.0,0.778490896
+random_ising_chimera_C4_inst1_linear.h5,256,-3672.25,-3672.25,true,0.0,1.022111646,-3672.25,-3672.25,true,0.0,0.913523067
+random_ising_chimera_C5_inst1_linear.h5,320,-4768.0,-4768.0,true,0.0,1.086525512,-4768.0,-4768.0,true,0.0,1.027508105
+random_ising_chimera_C6_inst1_linear.h5,384,-5624.5,-5624.5,true,0.0,1.269887111,-5624.5,-5624.5,true,0.0,1.225321973
+random_ising_chimera_C7_inst1_linear.h5,448,-6406.25,-6406.25,true,0.0,1.755384039,-6406.25,-6406.25,true,0.0,1.41137161
+random_ising_chimera_C8_inst1_linear.h5,512,-7493.0,-7493.0,true,0.0,1.819380986,-7493.0,-7493.0,true,0.0,1.799184472
+random_ising_chimera_C9_inst1_linear.h5,576,-8491.5,-8489.5,false,2.0,1.928267377,-8491.5,-8488.5,false,3.0,1.774174987
+random_ising_chimera_C10_inst1_linear.h5,640,-9247.25,-9247.25,true,0.0,2.1526451,-9247.25,-9247.25,true,0.0,1.961416454
+random_ising_chimera_C11_inst1_linear.h5,704,-9994.5,-9994.5,true,0.0,2.613288477,-9994.5,-9994.5,true,0.0,2.266880401
+random_ising_chimera_C12_inst1_linear.h5,768,-11011.25,-11011.25,true,0.0,2.762696368,-11011.25,-11010.25,false,1.0,2.571534098
+random_ising_chimera_C13_inst1_linear.h5,832,-11860.75,-11860.75,true,0.0,2.844955533,-11860.75,-11860.75,true,0.0,2.593319788
+random_ising_chimera_C14_inst1_linear.h5,896,-13299.25,-13299.25,true,0.0,3.125047985,-13299.25,-13298.25,false,1.0,2.796551103
+random_ising_chimera_C15_inst1_linear.h5,960,-13813.75,-13813.75,true,0.0,3.284998498,-13813.75,-13813.75,true,0.0,3.130018784
+random_ising_chimera_C16_inst1_linear.h5,1024,-15110.25,-15109.25,false,1.0,3.676454382,-15110.25,-15109.25,false,1.0,3.082808092

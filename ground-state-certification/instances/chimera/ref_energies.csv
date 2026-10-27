@@ -1,0 +1,16 @@
+instance,cols,num_var,energy
+random_ising_chimera_C2_inst1_linear.h5,2,128,-1830.25
+random_ising_chimera_C3_inst1_linear.h5,3,192,-2907.25
+random_ising_chimera_C4_inst1_linear.h5,4,256,-3672.25
+random_ising_chimera_C5_inst1_linear.h5,5,320,-4768.0
+random_ising_chimera_C6_inst1_linear.h5,6,384,-5624.5
+random_ising_chimera_C7_inst1_linear.h5,7,448,-6406.25
+random_ising_chimera_C8_inst1_linear.h5,8,512,-7493.0
+random_ising_chimera_C9_inst1_linear.h5,9,576,-8491.5
+random_ising_chimera_C10_inst1_linear.h5,10,640,-9247.25
+random_ising_chimera_C11_inst1_linear.h5,11,704,-9994.5
+random_ising_chimera_C12_inst1_linear.h5,12,768,-11011.25
+random_ising_chimera_C13_inst1_linear.h5,13,832,-11860.75
+random_ising_chimera_C14_inst1_linear.h5,14,896,-13299.25
+random_ising_chimera_C15_inst1_linear.h5,15,960,-13813.75
+random_ising_chimera_C16_inst1_linear.h5,16,1024,-15110.25
