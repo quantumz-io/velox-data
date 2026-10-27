@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Large zephyr instances not distributed via the repository
+dwave-annealer/instances/zephyr/large/random_ising_zephyr_Z500_inst1_linear.h5
+dwave-annealer/instances/zephyr/large/random_ising_zephyr_Z750_inst1_linear.h5
+dwave-annealer/instances/zephyr/large/random_ising_zephyr_Z1000_inst1_linear.h5
+dwave-annealer/instances/zephyr/large/random_ising_zephyr_Z1250_inst1_linear.h5
+dwave-annealer/instances/zephyr/large/random_ising_zephyr_Z1500_inst1_linear.h5
+dwave-annealer/instances/zephyr/large/random_ising_zephyr_Z1750_inst1_linear.h5
+
+# Large HUBO instances not distributed via the repository
+kipu-quantum-hubo/instances/max3SAT/weighted_max3SATIsing_sparse_L=50000000_*.h5
+kipu-quantum-hubo/instances/random3body/random3BodyIsing_L=10000000_*.h5
+kipu-quantum-hubo/instances/random3body/random3BodyIsing_L=50000000_*.h5
+
+# Local plots and reports
+kipu-quantum-hubo/plots/
+planted-solution/instances/wishart/wishart_dense_resave_report_*.csv
